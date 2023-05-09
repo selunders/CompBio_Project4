@@ -1,0 +1,489 @@
+Blosum Matrix
+1,2 Score: 380
+vnvwtvwawwlyv-pwagda-lcvkyheylryhhc-twptrmycgpitvnkgydtdmhetywwlyvpwacqfqearnklvqevpsckyssfypif-v-n-ipnmvk--tnrppgefltirc-st-vtenlhktkg-gnth
+vyvwtvwvww-wmgpwacdagl-dkyqpyery-ncynlpnrstccvinvnkdyycdmh-a----yv--acqfqeaghylpqevrsck----ypvfycwdwi-rcfkgcsqrppkkpks-rcwgqgyfwdt-dtsgyg-sq
+ 
+1,3 Score: 255
+-----vnv-wtvwaw-w-lyvpwagda--l-cvkyh-e-y-l-ryhhctwptrmycgpitvnkgydtdmhetywwlyvpwacqfqearnklvqevpsckyssf--ypif-vnipn-m-vkt-nrp--p-gefltircstvte-n-lhktkggnth
+cqfqevyvpy-vwvltwkvmv--acdannknc-k-kcdsmglgk--h----sk-yfihifin-g-nkd-getl--mhagyacqfqeagnylpgevpsckfmhfgcw--fki-v-tflyyqsld-pgipksqy-s-h-ggi-epnel--tkggnmr
+ 
+1,4 Score: 468
+vnvwtvwaw-wlyvpwagdalcvkyhe-ylr--y-hhctwptrmy-cgpitvnkgydtdmhetywwl-yv--pw-a-cqfqearnklvqevpsckyssfypifvnipnmvktnrppgefltircstvtenlhktkggnth
+vyvvkvwvwqw-pvpracda--inygdnf-kdgypmy--w---lsgc-hisi---f---vfqts-rlcyvrlawfaec-fqqqrvkldqevesckyssfypqlvnipgmvktnrppgeflssrcsqvtenlhetkggnrh
+ 
+1,5 Score: 166
+vnvwtvwawwlyvpwagdalc-vkyheyl-ryhhc-tw-ptrmy--c-gpitvnkgydtdmhetywwl-y--v---p--wac-qfqearnklvqevpsckyssf---ypifvnipnm-v-ktnr-ppgefl-tir---cstvten--l-hktkggnth
+yqrhkm-n-wnyvp---dt-cpwsyy-ylmnyymslmmvpv-pyqsctg--t----f-c-v-st-wyysyfsipsgpsvwpvgq-qga-d--i-av-k-k-asflgdw-m-vnf--mqvfgwerhkp-q-mdrirdegc----pnwffrhdm----ta
+ 
+1,6 Score: 198
+--------v-n--vwtv---wa-wwl---y-----vpwag-dalcv-k--yheylryhhctwptrmycgpitvnkg---yd-tdm--h-etyw--wlyvpwac-q-f-q-ear-nklvqevp-s-ck-yssfy-------pi-fv-----nipnmvktnr-p-p--g-efltir--cstvtenlhktkggnth
+hqpqqdcavldtlv-pvcphwsyyylmnyymsimmvp-vpiqvftvtswvftey--yeyfkwpsgpycwpvdv-ygqpqqdcahmgghqep-wqkmlnqp-pvdqkivqid-rcdvlsrwcpervcemytqihqadravkpadflwtqqynvhtmfhwhrhpnpesgiryfg-rdpc----q---r-rnwdtf
+ 
+1,7 Score: 197
+-v---n---vwt---v---w-----a-wwly-----vpwagdalcvky--he-ylry-hhctwptrmycgpit--vnkg-ydtdmhe-tyw--wlyv---pw--------a-cqfqear------nk-lvqevpsckyssfypi-fvn---ipn-m-vkt-n--rp-pg-ef-ltircstvtenlhktkggnth
+hvrlqdqapmytlvpvyspwsytydsnyyvyqmqkpvpwvwn-y-vtydvstwy--ywyk-wwps----gpntwsv--gvy-v-ahhgghwgttlymgtqpfmqklrmiiapcdlq-mrwcgelwnehlfqdf--cadravhpanflnttrv-nhmtmkvrnsikpqekeefrfttsc-wmar-fm-i----tc
+ 
+1,8 Score: 220
+-------v-nv-w---t-vwaw-wl---y-------vpwa-g-dalcv-------k-y------h-eylry--hh-ctw-ptrmycg--p-it-vn--kgydtd-mhe-ty-wwly---vp-wacqfqearnklvqevpsckyss-fypifv-nipnmvkt--nr--pp-gefltir--c-stvtenlhktkggnth
+hepqqdcapnfpwtlmtcvwswkwlsvgyanqmqnpvpwvwnyqtyfvstwyywykwwpsgpnthivyv-yvkhhgghwgpvq-ymgfqpfmqgvrfpqgvg-gfyhriifelwtyrngadhwa----d-r---a--v-s---galfwlllvkn-shtikviysqpwppsg----irkycrnpy-qtvh--p-g-t-
+ 
+2,1 Score: 380
+vyvwtvwvww-wmgpwacdagl-dkyqpyery-ncynlpnrstccvinvnkdyycdmh-a----yv--acqfqeaghylpqevrsck----ypvfycwdwi-rcfkgcsqrppkkpks-rcwg---qgyfwdtdtsgyg-sq
+vnvwtvwawwlyv-pwagda-lcvkyheylryhhc-twptrmycgpitvnkgydtdmhetywwlyvpwacqfqearnklvqevpsckyssfypif-v-n-ipnmvk--tnrppgefltirc-stvten-l-h-ktkg-gnth
+ 
+2,3 Score: 322
+-----vyv-wtvwvw-w-wmgpwacdagldkyqpyerync--ynlpnr-st-cc-v-invnkdyycd--mha-yvacqfqeaghylpqevrsckypv-fycwdw-ircfkgcsqr-ppkkpksrcw--gqgyfwd-td-tsgygs-q
+cqfqevyvpy-vwvltwkvm--vacdan-nk-n-ckk--cdsmgl-gkhskyfihifingnkd--getlmhagy-acqfqeagnylpgevpsckf-mhfgcw-fkivtfl-yyqsldpgipksq-yshg-g-i-epneltkg-gnmr
+ 
+2,4 Score: 306
+vyvwtvwvwww-mgpwacda---gld--k--yqpyeryncynlpnrstccv-inv-nkdyycdmh-ayva-cqfqeaghy-lpqevrsckypvfycwdwircfkg-c-sqrppkk-pksrcwgqgyfwdt-dtsgygs-q
+vyvvkvwvwqwpv-pracdainyg-dnfkdgy-pm--y--w-l---sgchisifvfqtsrlcyvrlawfaec-fqqq-rvkldqevesckyssfy-pqlvn-ipgmvktnrppgeflssrc-sq-vtenlhetkg-gnrh
+ 
+2,5 Score: 166
+vy----v-wtvwvwwwmgp-wacdagldkyqpyery--ncy-nl-----pnrstc----cvinvnkdyycdmhayvacqfq-eag-h-ylp---q--evrsckypvfycwdw-ircf-k--gcsqrppkkpk-s--r---c--wgqgyfwdtdtsgygsq
+-yqrhkmnwn-yv-----pd-tc-p-w-sy--y--ylmnyymslmmvpvpyqs-ctgtfcv-s-tw-yy----sy----fsipsgpsvw-pvgqqgadi-avkkasfl-gdwmvn-fmqvfg-wer--hkpqmdrirdegcpnw---ff-rhdmt---a-
+ 
+2,6 Score: 177
+--------v----y-v---w----------------------tv--wv----w-w--w-mgpwacdagldky-qpyeryncynl-----p-nrstccvin---vn-k----dyycd-mhay----vacq-f-qeaghylpq-evrsckypv-fycw--dw-irc-fkgcsqr-p-pkkp-k--sr--cwgqgyfwdtdtsgygsq
+hqpqqdcavldtlvpvcphwsyyylmnyymsimmvpvpiqvftvtswvfteyyeyfkwpsgpy-c-wpvdvygqp-qq-dcahmgghqepwqk----mlnqppvdqkivqid-rcdvlsrwcperv-cemytq-i-h---qad-ravk-padfl-wtqqynvhtmfhw--hrhpnpesgiryfgrdpc--qrrnw--dt--f---
+ 
+2,7 Score: 158
+-v--------y----v---w--t-------------v-wvw---------w--wm-----gp--wacd---a------g--ldky---qpy-e--ry--n-cynlpnrstccvi-nvn--kdyyc-d--mhayvacqf-q--eaghylpqevr-sckypvfycwdwircfkgcsqrppkkpksrcwgqgyfwdtdtsgygsq
+hvrlqdqapmytlvpvyspwsytydsnyyvyqmqkpvpwvwnyvtydvstwyywykwwpsgpntwsvgvyvahhgghwgttl--ymgtqpfmqklrmiiapc-dlqmr-wcgelwnehlfqd-fcadravhp--a-nflnttrvnh-mtmkvrnsik-p--qekeefr-f---t-------ts-cw-marfm-i-t----c-
+ 
+2,8 Score: 200
+-------v--yvwtvw--vw-w-wm--g---------pwacdagldkyqpy--er-yn-cyn-lpn-rstccv-invnkdyycdmh---a-yvacq-f-qeag-hylpqevrsckyp--vf----y---c--w-d--------w---ir---cfkgc--sqrp-pkkpks--r--cwgqg-yfwdtdtsgy-gsq
+hepqqdcapnfpwtlmtcvwswkwlsvgyanqmqnpvpw---v-wn-yqtyfvstwyyw-ykwwpsgpnthivyvyv-k-hh-gghwgpvqymgfqpfmq--gvrf-pqgvggf-yhriifelwtyrngadhwadravsgalfwlllvknshtik-viysq-pwp--p-sgirkyc--rnpy--qt-v--hpgt-
+ 
+3,1 Score: 255
+cqfqevyvpyvwvltwkvmv--acdannknc-k-kcdsmglgk--h----sk-yfihifin-g-nkd-getl--mhagyacqfqeagnylpgevpsckfmhfgcw--fki-v-tflyyqsld-pgipksqy-s-h-ggi-epnel--tkggnmr
+--v-nvwt--vwaw-w-lyvpwagda--l-cvkyh-e-y-l-ryhhctwptrmycgpitvnkgydtdmhetywwlyvpwacqfqearnklvqevpsckyssf--ypif-vnipn-m-vkt-nrp--p-gefltircstvte-n-lhktkggnth
+ 
+3,2 Score: 322
+cqfqevyvpy-vwvltwkvm--vacdan-nk-n-ckk--cdsmgl-gkhskyfihifingnkd--getlmhagy-acqfqeagnylpgevpsckf-mhfgcw-fkivtfl-yyqsldpgipksq-yshg-g-i-epneltkg-gnmr
+-----vyv-wtvwvw-w-wmgpwacdagldkyqpyerync--ynlpnr-st-cc-v-invnkdyycd--mha-yvacqfqeaghylpqevrsckypv-fycwdw-ircfkgcsqr-ppkkpksrcw--gqgyfwd-td-tsgygs-q
+ 
+3,4 Score: 257
+cqfqevyvpyvwvltwkvmvacda-n-nknckkcds--m-gl-gkh-skyfihifingnkdgetl--mh-agya-cqfqeagny-lpgevpsckfmhfgcwfkivtflyyqsl-d-pg-i----pksqy--sh-ggi-epn--eltkggnmr-
+-----vyvvkvwvwqwpvpracdainygdnf-k-dgypmywlsgchis-if--vf-qtsr----lcyvrlawfaec-fqqq-rvkldqevesck-------ys--sf-ypq-lvnipgmvktnrppgeflssrcsqvte-nlhe-tkggn-rh
+ 
+3,5 Score: 155
+cqfq--ev---yvp-yv-w----vlt-w-kvmvacdannknck-k-cdsmglgkhskyf-i----hif-ingnkdgetlmhagyacqfqeagnylpge--vpsckfmh-fgcw--fkivtflyyqsldpgipksqyshggiepneltkggnmr-
+--yqrhkmnwnyvpdtcpwsyyylmnyymslmmv-pvpyqsctgtfcvst-w-yys-yfsipsgpsvwpv-g-qqg-----adiavk-k-a-sfl-gdwmv-n--fmqvfg-werhk--p----q-md-ri-rde----gc-pnwffr-hdmta
+ 
+3,6 Score: 141
+cq-fqe--v---yvpyv---w----vlt-w-kv-mvacdannknckkcds-mglgkhskyfihifing--n-k-d--getlm---h-agyacq--fqeagnylpgevp-sckfmhfg-c-----wf--kivtfly---yqsldpgi-p-k---s-qys-hggi-----epn-eltkg----g-n--m-r-----
+hqpqqdcavldtlvp-vcphwsyyylmnyymsimmvpvpi--q-vftvtswv-fteyyeyf-k-wpsgpycwpvdvygqpqqdcahmggh--qepwqkmlnq-p---pvdqkivqidrcdvlsrwcpervce-mytqihqa-dravkpadflwtqqynvh-tmfhwhrhpnpe-s-giryfgrdpcqrrnwdtf
+ 
+3,7 Score: 155
+-cqfq-e--vy--vp-yv-w---------v--l---t-wkv--mvacdann-kn-ck-kcdsmglgkhskyfihifi--ngnk-dgetl-mhagyacq-f-qeagnylpgev-psckf-mhfgc---wfkivtflyyqsl--dpgi-p----k-sqysh------ggiep---ne--ltkggn-m-r-----
+hvrlqdqapmytlvpvyspwsytydsnyyvyqmqkpvpw-vwnyvtydvstwyywykww-ps---gpnt-wsvgvyvahhgghw-gttlym--g-t-qpfmqkl-rmi---iap-cdlqmrw-cgelw-n--ehl-fqdfcadravhpanflnttrvnhmtmkvrnsikpqekeefrftt-scwmarfmitc
+ 
+3,8 Score: 170
+-c-qfqevyvp-yvwvl-t----wkvm-v--acd-an------n-kn--ck------k--cdsmglgkhsky-fi-hifingnkdgetlmhagyacq-f-qeag-nylp-gevpsckfmh---f-------gc--wf-kivt---f---l----y-----y-qsldp-gipksqyshggiepnelt-kggnmr
+hepq-qdc-apnfpwtlmtcvwswkwlsvgyanqmqnpvpwvwnyqtyfvstwyywykww-ps-gpnthivyvyvkh-h-gghw-g-pvqymgf--qpfmq--gvrf-pqg-v-g-gfyhriifelwtyrngadhwadravsgalfwlllvknshtikviysqpwppsgi-r-kycr---npyq-tvhpgt--
+ 
+4,1 Score: 468
+vyvvkvwvwqw-pvpracda--inygdnf-kdgypmy--w---lsgc-hisi---f---vfqts-rlcyvrlawfaec-fqqqrvkldqevesckyssfypqlvnipgmvktnrppgeflssrcsqvtenlhetkggnrh
+vnvwtvwaw-wlyvpwagdalcvkyhe-ylr--y-hhctwptrmy-cgpitvnkgydtdmhetywwl-yv--pw-a-cqfqearnklvqevpsckyssfypifvnipnmvktnrppgefltircstvtenlhktkggnth
+ 
+4,2 Score: 306
+vyvvkvwvwqwpv-pracdainyg-dnfkdgy-pm--y--w-l---sgchisifvfqtsrlcyvrlawfaec-fqqq-rvkldqevesckyssfy-pqlvn-ipgmvktnrppgeflssrc-sq-vtenlhetkg-gnrh
+vyvwtvwvwww-mgpwacda---gld--k--yqpyeryncynlpnrstccv-inv-nkdyycdmh-ayva-cqfqeaghy-lpqevrsckypvfycwdwircfkg-c-sqrppkk-pksrcwgqgyfwdt-dtsgygs-q
+ 
+4,3 Score: 257
+-----vyvvkvwvwqwpvpracdainygdnf-k-dgypmywlsgchis-if--vf-qtsr----lcyvrlawfaec-fqqq-rvkldqevesck-------ys--sf-ypq-lvnipgmvktnrppgeflssrcsqvte-nlhe-tkggn-rh
+cqfqevyvpyvwvltwkvmvacda-n-nknckkcds--m-gl-gkh-skyfihifingnkdgetl--mh-agya-cqfqeagny-lpgevpsckfmhfgcwfkivtflyyqsl-d-pg-i----pksqy--sh-ggi-epn--eltkggnmr-
+ 
+4,5 Score: 166
+vyvv-kvwvwqwpvpracdainygdnfkdgypm-ywlsgchisifv-fq--tsrlcyvrlaw-faecfq--q-qrv-kldqe-ve-sckyssfy-pqlvnipgm-v-ktnr-ppgeflssrcsqvtenlhetkg-gn---rh----
+-yqrhkm-nwny-vpdtc-pwsy---y---ylmnyyms-lmm-vpvpyqsctgtfc-vs-twyysy-fsipsgpsvwpvgqqgadiavkkasflgdwmvnf--mqvfgwerhkp-q-m-dr---i-rd--e--gcpnwffrhdmta
+ 
+4,6 Score: 181
+--------vy--vvkv---w--vw--q-w------pvp-r--acda-i--nygdnfk--dgypmy-w-ls--g-----c-hi--------sif----v---f-qtsrlcyvrla-wfae--c--f-q-qqrvkldqevesckyssf-ypqlvnipgmvktnr-p-p--g-eflssr--csqvtenlhetkggnrh
+hqpqqdcavldtlvpvcphwsyyylmnyymsimmvpvpiqvftvtswvfteyyeyfkwpsg-p-ycwpvdvygqpqqdcahmgghqepwqkmlnqppvdqkivqidr-cdv-lsrwcpervcemytqihq-a--drav---kpadflwtqqynvhtmfhwhrhpnpesgiryf-grdpc-q-rrnw-dt-----f
+ 
+4,7 Score: 163
+-v--------y-vvkv---w---------vwq-w-pvpra-cdainygd-n-----fk---dgypmywls-g---c----h--isifv----f-qtsrlcyvrlawfaec-fqqqr-v-kl-dqev-es-ckyssfyp-q-l----vn-ipgm-vktn--rp-pg-ef-lssrcsqvtenlhetkggnrh
+hvrlqdqapmytlvpvyspwsytydsnyyvyqmqkpvpwvw-nyvty-dvstwyywykwwpsg-pntw-svgvyvahhgghwgttlymgtqpfmq--kl---rmi-iapcdl-qmrwcgelwnehlfqdfcadravhpanflnttrvnhmt-mkvr-nsikpqekeefrfttsc-wmar-fmit---c--
+ 
+4,8 Score: 161
+-------v--y---vvk-vwvwqw-----------pvpracdai-nygdn-f-kdgypmy-wl-sg--chisifvf-q--tsrlcy--vr-law--fae-c-f-q-----qqr-v-kl-------dqevesck-ys-s-fypqlv-nipgmvkt--nr--pp-geflssr--c-s--qvtenlhetkggnrh
+hepqqdcapnfpwtlmtcvwswkwlsvgyanqmqnpvp----wvwny-qtyfvstwyywykwwpsgpnthi-vyvyvkhhggh--wgpvqymgfqpfmqgvrfpqgvggfyhriifelwtyrngadhwad--ravsgalfwlllvkn-shtikviysqpwppsg--i--rkycrnpyq-t--vh--p-gt--
+ 
+5,1 Score: 166
+yqrhkm-n-wnyvp---dt-cpwsyy-ylmnyymslmmvpv-pyqsc---t---gtf-c-v-st-wyysyfsipsgpsvwpvgq-qga-d--i-av-k-k-asflgdwm-vnf--mqvfgwerhkp-q-mdrirdegc----pnwffr-h--dmta
+vnvwtvwawwlyvpwagdalc-vkyheyl-ryhhc-tw-ptrmy--cgpitvnkg-ydtdmhetywwl-y--v---p--wac-qfqearnklvqevpsckyssfy-p-ifvnipnm-v-ktnr-ppgefl-tir---cstvten-lhktkggn-th
+ 
+5,2 Score: 166
+-yqrhkmnwn-yv-----p-dtc-p-w-sy--y--ylmnyymslmmvpvpyqs-ctgtfcv-s-tw-yy----sy----fsipsgpsvwpvgqqgadi-avkkasfl-gdwmvn-fmqvfg-wer--hkpqmdrirdegcpnw---ff-rhdmt---a-
+vy----v-wtvwvwwwmgpw-acdagldkyqpyery--ncy-nl-----pnrstc----cvinvnkdyycdmhayvacqfq-eaghyl-p---q--evrsckypvfycwdw-ircf-k--gcsqrppkkpk-s--r---c--wgqgyfwdtdtsgygsq
+ 
+5,3 Score: 155
+--yqrhkmnwnyvpdtcpwsyyylmnyymslmmv-pvpyqsctgtfcvst-w-yys-yfsipsgpsvwpv-g-qqg-----adiavk-k-a-sfl-gdwmv-n--fmqvfg-w-e--r--hkpq-md-ri-rde----gc-pnwffr-hdmta
+cqfq--ev---yvp-yv-w----vlt-w-kvmvacdannknck-k-cdsmglgkhskyf-i----hif-ingnkdgetlmhagyacqfqeagnylpge--vpsckfmh-fgcwfkivtflyy-qsldpgipksqyshggiepneltkggnmr-
+ 
+5,4 Score: 166
+-yqrhkm-nwny-vpdtc-pwsy---y---ylmnyyms-lmm-vpvpyqsctgtfc-vs-twyysy-fsipsgpsvwpvgqqgadiavkkasflgdwmvnf--mqvfgwerhkp-q-m-dr---i-rd--e--gcpnwffrhdmta
+vyvv-kvwvwqwpvpracdainygdnfkdgypm-ywlsgchisifv-fq--tsrlcyvrlaw-faecfq--q-qrv-kldqe-ve-sckyssfy-pqlvnipgm-v-ktnr-ppgeflssrcsqvtenlhetkg-gn---rh----
+ 
+5,6 Score: 366
+yq-rh--k-mnwnyvpdtcp-wsyyylmnyymslmmvpvpyqsctgtfcvstw----yysyfsipsgpsvwp--v-g--qq-----ga--d-----i---av-kk-asflg--d----w-------m----------v---nfm---q--v---fgwerh-kpq--mdr-i-rdegcp--nwffrhdmta
+hqpqqdcavld-tlvp-vcphwsyyylmnyymsimmvpvpiq----vftvtswvfteyyeyfkwpsgpycwpvdvygqpqqdcahmgghqepwqkmlnqppvdqkivq-idrcdvlsrwcpervcemytqihqadravkpadflwtqqynvhtmfhwhrhpnpesgi-ryfgrdp-cqrrnw----d-tf
+ 
+5,7 Score: 264
+yqr-h-k--mnwnyvpdt-cpwsyyylmnyymslmmvpvpy-qsctgtfcvstwyysyfs-ipsgpsvwpvg-----q--q-gad--i-a---v-k-k---a--sf-l---gd-w---m---------v---nfm---qv--fgwe-rh--kpqmdr--ir-degcpnwffrhdm-ta
+hvrlqdqapm-ytlvp-vyspwsytydsnyyvyqmqkpvpwvwnyv-tydvstwyy-wykwwpsgpntwsvgvyvahhgghwgttlymgtqpfmqklrmiiapcdlqmrwcgelwnehlfqdfcadravhpanflnttrvnhmtmkvrnsikpq-ekeefrfttsc--wmarf-mitc
+ 
+5,8 Score: 258
+y--qrh-kmn--wnyvpdtcpwsyyyl-mnyymslmmvpvp----yqsctgtfcvstwyysyfs-ipsgp-s------v------w-pv---g-q---qga---d-i-a-vkkasf-l-----g-d-w---mvnfmqvfgw----e-rh--k-----pqmdr-irdegc--pnwffr--hdmta
+hepqqdcapnfpwtlm--tcvwswkwlsvg-yanqmqnpvpwvwnyq--t-yf-vstwyy-wykwwpsgpnthivyvyvkhhgghwgpvqymgfqpfmqgvrfpqgvggfyhriifelwtyrngadhwadravs-galf-wlllvknshtikviysqpwppsgir-kycrnp---yqtvhpgt-
+ 
+6,1 Score: 198
+hqpqqdcavldtlv-pvcphwsyyylmnyymsimmvp-vpiqvftvtswvftey--yeyfkwpsgpycwpvdv-ygqpqqdcahmgghqep-wqkmlnqp-pvdqkivqid-rcdvlsrwcpervcemytqihqadravkpadflwtqqynvhtmfhwhrhpnpesgiryfg-rdpc----q---r-rnwdtf
+--------v-n--vwtv---wa-wwl---y-----vpwag-dalcv-k--yheylryhhctwptrmycgpitvnkg---yd-tdm--h-etyw--wlyvpwac-q-f-q-ear-nklvqevp-s-ck-yssfy-------pi-fv-----nipnmvktnr-p-p--g-efltir--cstvtenlhktkggnth
+ 
+6,2 Score: 177
+hqpqqdcavldtlvpvcphwsyyylmnyymsimmvpvpiqvftvtswvfteyyeyfkwpsgpy-c-wpvdvygqp-qq-dcahmgghqepwqk----mlnqppvdqkivqid-rcdvlsrwcperv-cemytq-i-h---qad-ravk-padfl-wtqqynvhtmfhw--hrhpnpesgiryfgrdpc--qrrnw--dt--f---
+--------v----y-v---w----------------------tv--wv----w-w--w-mgpwacdagldky-qpyeryncynl-----p-nrstccvin---vn-k----dyycd-mhay----vacq-f-qeaghylpq-evrsckypv-fycw--dw-irc-fkgcsqr-p-pkkp-k--sr--cwgqgyfwdtdtsgygsq
+ 
+6,3 Score: 141
+hqpqqdcavldtlvp-vcphwsyyylmnyymsimmvpvpi--q-vftvtswv-fteyyeyf-k-wpsgpycwpvdvygqpqqdcahmggh--qepwqkmlnq-p---pvdqkivqidrcdvlsrwcpervce-mytqihqa-dravkpadflwtqqynvh-tmfhwhrhpnpe-s-giryfgrdpcqrrnwdtf
+cq-fqe--v---yvpyv---w----vlt-w-kv-mvacdannknckkcds-mglgkhskyfihifing--n-k-d--getlm---h-agyacq--fqeagnylpgevp-sckfmhfg-c-----wf--kivtfly---yqsldpgi-p-k---s-qys-hggi-----epn-eltkg----g-n--m-r-----
+ 
+6,4 Score: 181
+hqpqqdcavldtlvpvcphwsyyylmnyymsimmvpvpiqvftvtswvfteyyeyfkwpsg-p-ycwpvdvygqpqqdcahmgghqepwqkmlnqppvdqkivqidr-cdv-lsrwcpervcemytqihq-a--drav---kpadflwtqqynvhtmfhwhrhpnpesgiryf-grdpc-q-rrnw-dt-----f
+--------vy--vvkv---w--vw--q-w------pvp-r--acda-i--nygdnfk--dgypmy-w-ls--g-----c-hi--------sif----v---f-qtsrlcyvrla-wfae--c--f-q-qqrvkldqevesckyssf-ypqlvnipgmvktnr-p-p--g-eflssr--csqvtenlhetkggnrh
+ 
+6,5 Score: 366
+hqpqqdcavld-tlvp-vcphwsyyylmnyymsimmvpvpiq----vftvtswvfteyyeyfkwpsgpycwpvdvygqpqqdcahmgghqepwqkmlnqppvdqkivq-idrcdvlsrwcpervcemytqihqadravkpadflwtqqynvhtmfhwhrhpnpesgi-ryfgrdp-cqrrnw----d-tf
+yq-rh--k-mnwnyvpdtcp-wsyyylmnyymslmmvpvpyqsctgtfcvstw----yysyfsipsgpsvwp--v-g--qq-----ga--d-----i---av-kk-asflg--d----w-------m----------v---nfm---q--v---fgwerh-kpq--mdr-i-rdegcp--nwffrhdmta
+ 
+6,7 Score: 490
+h-qpqqdcavldtlvpv-cphwsyyylmnyym-simmvpvp-i-q-v-ftvtswvfteyyeyfk-wpsgpycwpvdvygqpqqdcahmgghqepw-qkm-l-nqppvdqk--ivqidrcdvls-rwcperv-ce-mytq-ihqadravkpadflwtqqynvh-tmfhwhrhp-np-es-giryfgrdpcqrrnw-dtf----
+hvr-lqdqapmytlvpvysp-wsytydsnyyvyq-mqkpvpwvwnyvtydvstw----yy-wykwwpsgpntwsvgvy------vahhggh---wgttlymgtqpfm-qklrmi-iapcd-lqmrwcge-lwnehlf-qdf-cadravhpanflnttrvn-hmtm-kv-rnsikpqekeefr-f-ttsc----wmarfmitc
+ 
+6,8 Score: 436
+hqpqqdca-vld-tlvpvcphwsyyyl-mnyymsimmvpvp-i---qv-ftvtswvfteyyeyfk-wpsgpycwpvdvygqpqqdcahmgghqepwqkm-lnqppvdqkivqidrcdvlsrwcper-vcemyt-q--i-hqadravkpadflw-tq-qynvht---mf-h-whrhpnpesgir-yfgrdpcqrrnwdtf
+hepqqdcapnfpwtlm-tcv-wswkwlsvg-yanqmqnpvpwvwnyqtyf-vstw----yy-wykwwpsgpnt-hi-vyvyvkh---h-gghwgpvqymgf-qpfm-qg-vrfpq-gv-ggf-yhriifelwtyrngadhwadravsgalf-wlllvk-nshtikviysqpw---p-p-sgirkyc-rnpyqtvhpgt-
+ 
+7,1 Score: 197
+hvrlqdqapmytlvpvyspwsytydsnyyvyqmqkpvpwvwn-y-vtydvstwy--ywyk-wwps----gpntwsv--gvy-v-ahhgghwgttlymgtqpfmqklrmiiapcdlq-mrwcgelwnehlfqdf--cadravhpanflnttrv-nhmtmkvrnsikpqekeefrfttsc-wmar-fm-i----tc
+-v---n---vwt---v---w-----a-wwly-----vpwagdalcvky--he-ylry-hhctwptrmycgpit--vnkg-ydtdmhe-tyw--wlyv---pw--------a-cqfqear------nk-lvqevpsckyssfypi-fvn---ipn-m-vkt-n--rp-pg-ef-ltircstvtenlhktkggnth
+ 
+7,2 Score: 158
+hvrlqdqapmytlvpvyspwsytydsnyyvyqmqkpvpwvwnyvtydvstwyywykwwpsgpntwsvgvyvahhgghwgttl--ymgtqpfmqklrmiiapc-dlqmr-wcgelwnehlfqd-fcad-ra-vhpa-nflnttrvnh-mtmkvrnsik-p--qekeefr-f---t-------ts-cw-marfm-i-t----c-
+-v--------y----v---w--t-------------v-wvw---------w--wm-----gp--wacd---a------g--ldky---qpy-e--ry--n-cynlpnrstccvi-nvn--kdyyc-dmhayv--acqf-q--eaghylpqevr-sckypvfycwdwircfkgcsqrppkkpksrcwgqgyfwdtdtsgygsq
+ 
+7,3 Score: 155
+hvrlqdqapmytlvpvyspwsytydsnyyvyqmqkpvpw-vwnyvtydvstwyywyk-wwps---gpnt-wsvgvyvahhggh-wgttlym--g-t-qpfmqkl-rmi---iap-cdlqmrw-cgelw-n--ehl-fqdfcadravhpanflnttrvnhmtmkvrnsikpqekeefrftt-scwmarfmitc
+-cqfq-e--vy--vp-yv-w---------v--l---t-wkv--mvacdannknc-kkc--dsmglgkhskyfihifi--ngnkd-getl-mhagyacq-f-qeagnylpgev-psckf-mhfgc---wfkivtflyyqsl--dpgi-p----k-sqysh------ggiep---ne--ltkggn-m-r-----
+ 
+7,4 Score: 163
+hvrlqdqapmytlvpvyspwsytydsnyyvyqmqkpvpwv-wnyvty-dvstwyywykwwpsg-pntw-svgvyvahhgghwgttlymgtqpfmq--kl---rmi-iapcdl-qmrwcgelwnehlfqdfcadravhpanflnttrvnhmt-mkvr-nsikpqekeefrfttsc-wmar-fmit---c--
+-v--------y-vvkv---w---------vwq-w-pvprac-dainygd-n-----fk---dgypmywls-g---c----h--isifv----f-qtsrlcyvrlawfaec-fqqqr-v-kl-dqev-es-ckyssfyp-q-l----vn-ipgm-vktn--rp-pg-ef-lssrcsqvtenlhetkggnrh
+ 
+7,5 Score: 264
+hvrlqdqapm-ytlvp-vyspwsytydsnyyvyqmqkpvpwvwnyv-tydvstwyy-wykwwpsgpntwsvgvyvahhgghwgttlymgtqpfmqklrmiiapcdlqmrwcgelwnehlfqdfcadravhpanflnttrvnhmtmkvrnsikpq-ekeefrfttsc--wmarf-mitc
+yqr-h-k--mnwnyvpdt-cpwsyyylmnyymslmmvpvpy-qsctgtfcvstwyysyfs-ipsgpsvwpvg-----q--q-gad--i-a---v-k-k---a--sf-l---gd-w---m---------v---nfm---qv--fgwe-rh--kpqmdr--ir-degcpnwffrhdm-ta
+ 
+7,6 Score: 490
+hvr-lqdqapmytlvpvysp-wsytydsnyyvyq-mqkpvpwvwnyvtydvstw----yy-wykwwpsgpntwsvgvy------vahhggh---wgttlymgtqpfm-qklrmi-iapcd-lqmrwcge-lwnehlf-qdf-cadravhpanflnttrvn-hmtm-kv-rnsikpqekeefr-f-ttsc----wmarfmitc
+h-qpqqdcavldtlvpv-cphwsyyylmnyym-simmvpvp-i-q-v-ftvtswvfteyyeyfk-wpsgpycwpvdvygqpqqdcahmgghqepw-qkm-l-nqppvdqk--ivqidrcdvls-rwcperv-ce-mytq-ihqadravkpadflwtqqynvh-tmfhwhrhp-np-es-giryfgrdpcqrrnw-dtf----
+ 
+7,8 Score: 572
+hvr-lqdqap-m-ytlvp-vys-pw-sytydsnyyvyqmqkpvpwvwnyvty-dvstwyywykwwpsgpntws-vgvyvahhgghwgttlymgtqpfmqklrmiiap--c-dlqmr--wcgelw---n--ehlfqdfcadravhpanf-lnttrv-n-hmtmkv-rnsikpqekeefr-fttscwmar--fm-i---tc
+h-epqqdcapnfpwtlmtcvwswkwlsvgy-an----qmqnpvpwvwnyqtyf-vstwyywykwwpsgpnt-hivyvyvkhhgghwgpvqymgfqpfmqgvr--f-pqgvggfyhriif--elwtyrngadh----w-adravsgalfwl-ll-vknsh-tikviy-s-qpwppsgirky---c---rnpyqtvhpgt-
+ 
+8,1 Score: 220
+hepqqdcapnfpwtlmtcvwswkwlsvgyanqmqnpvpwvwnyqtyfvstwyywykwwpsgpnthivyv-yvkhhgghwgpvq-ymgfqpfmqgvrfpqgvg-gfyhriifelwtyrngadhwa----d-r---a--v-s---galfwlllvkn-shtikviysqpwppsg----irkycrnpy-qtvh--p-g-t-
+-------v-nv-w---t-vwaw-wl---y-------vpwa-g-dalcv-------k-y------h-eylry--hh-ctw-ptrmycg--p-it-vn--kgydtd-mhe-ty-wwly---vp-wacqfqearnklvqevpsckyss-fypifv-nipnmvkt--nr--pp-gefltir--c-stvtenlhktkggnth
+ 
+8,2 Score: 200
+hepqqdcapnfpwtlmtcvwswkwlsvgyanqmqnpvpw---v-wn-yqtyfvstwyy-wykwwpsgpnthivyvyv-k-hh-gghwgpvqymgfqpfmq--gvrf-pqgvggf-yhriifelwtyrngadhwadravsgalfwlllvknshtikviysq-pwp--p-sgirkyc--rnpy--qt-v--hpgt-
+-------v--yvwtvw--vw-w-wm--g---------pwacdagldkyqpy--er-ync-yn-lpn-rstccv-invnkdyycdmh---a-yvacq-f-qeag-hylpqevrsckyp--vfycw------d-wi-r----c-f-----k-g----c--sqrp-pkkpks--r--cwgqg-yfwdtdtsgy-gsq
+ 
+8,3 Score: 170
+hepq-qdc-apnfpwtlmtcvwswkwlsvgyanqmqnpvpwvwnyqtyfvstwyywyk-wwps-gpnthivyvyvkh---hggh-wg-pvqymgf--qpfmq--gvrf-pqg-v-g-gfyhriifelwtyrngadhwadravsgalfwlllvknshtikviysqpwppsgi-r-kycr---npyq-tvhpgt--
+-c-qfqevyvp-yvwvl-t----wkvm-v--acd-an------n-kn--ck------kc--dsmglgkhsky-fi-hifingnkd-getlmhagyacq-f-qeag-nylp-gevpsckfmh---f-------gc--wf-kivt---f---l----y-----y-qsldp-gipksqyshggiepnelt-kggnmr
+ 
+8,4 Score: 161
+hepqqdcapnfpwtlmtcvwswkwlsvgyanqmqnpvp----wvwny-qtyfvstwyywykwwpsgpnthi-vyvyvkhhggh--wgpvqymgfqpfmqgvrfpqgvggfyhriifelwtyrngadhwadravsgalfwlllvkn-shtikviysqpwppsg--i--rkycrnpyq-t--vh--p-gt--
+-------v--y---vvk-vwvwqw-----------pvpracdai-nygdn-f-kdgypmy-wl-sg--chisifvf-q--tsrlcy--vr-law--fae-c-f-q-----qqr-v-kl-d-qe-ves-c-k-ys-s-fypqlv-nipgmvkt--nr--pp-geflssr--c-s--qvtenlhetkggnrh
+ 
+8,5 Score: 258
+hepqqdcapnfpwtlm--tcvwswkwlsvg-yanqmqnpvpwvwnyq--t-yf-vstwyy-wykwwpsgpnthivyvyvkhhgghwgpvqymgfqpfmqgvrfpqgvggfyhriifelwtyrngadhwadravs-galf-wlllvknshtikviysqpwppsgir-kycrnp---yqtvhpgt-
+y--qrh-kmn--wnyvpdtcpwsyyyl-mnyymslmmvpvp----yqsctgtfcvstwyysyfs-ipsgp-s------v------w-pv---g-q---qga---d-i-a-vkkasf-l-----g-d-w---mvnfmqvfgw----e-rh--k-----pqmdr-irdegc--pnwffr--hdmta
+ 
+8,6 Score: 436
+hepqqdcapnfpwtlm-tcv-wswkwlsvg-yanqmqnpvpwvwnyqtyf-vstw----yy-wykwwpsgpnt-hi-vyvyvkh---h-gghwgpvqymgf-qpfm-qg-vrfpq-gv-ggf-yhriifelwtyrngadhwadravsgalf-wlllvk-nshtikviysqpw---p-p-sgirkyc-rnpyqtvhpgt-
+hqpqqdca-vld-tlvpvcphwsyyyl-mnyymsimmvpvp-i---qv-ftvtswvfteyyeyfk-wpsgpycwpvdvygqpqqdcahmgghqepwqkm-lnqppvdqkivqidrcdvlsrwcper-vcemyt-q--i-hqadravkpadflw-tq-qynvht---mf-h-whrhpnpesgir-yfgrdpcqrrnwdtf
+ 
+8,7 Score: 572
+h-epqqdcapnfpwtlmtcvwswkwlsvgy-an----qmqnpvpwvwnyqty-fvstwyywykwwpsgpnt-hivyvyvkhhgghwgpvqymgfqpfmqgvr--f-pqgvggfyhriif--elwtyrngadh----w-adravsgalfwl-ll-vknsh-tikviy-s-qpwppsgirky---c---rnpyqtvhpgt-
+hvr-lqdqap-m-ytlvp-vys-pw-sytydsnyyvyqmqkpvpwvwnyvtyd-vstwyywykwwpsgpntws-vgvyvahhgghwgttlymgtqpfmqklrmiiap--c-dlqmr--wcgelw---n--ehlfqdfcadravhpanf-lnttrv-n-hmtmkv-rnsikpqekeefr-fttscwmar--fm-i---tc
+ 
+Scores
+[250, 380, 255, 468, 166, 198, 197, 220]
+[380, 250, 322, 306, 166, 177, 158, 200]
+[255, 322, 250, 257, 155, 141, 155, 170]
+[468, 306, 257, 250, 166, 181, 163, 161]
+[166, 166, 155, 166, 250, 366, 264, 258]
+[198, 177, 141, 181, 366, 250, 490, 436]
+[197, 158, 155, 163, 264, 490, 250, 572]
+[220, 200, 170, 161, 258, 436, 572, 250]
+ 
+Min, Max
+0: 166,468
+1: 158,380
+2: 141,322
+3: 161,468
+4: 155,366
+5: 141,490
+6: 155,572
+7: 161,572
+
+Our Matrix
+1,2 Score: 721
+v-nvwtvwawwlyvpwagda-lcvkyh--eylryhhctw-ptr-mycgpitvnkg-ydtdmhetywwlyvpwacqfqearnklvqevpsckyssfypifvnipnmvk--tnrppgefltirc-stvtenlh-kt-k-g-gnth
+vy-vwtvwvwwwmgpwacdagld-kyqpye--ry-ncynlpnrstcc-vinvnkdyyc-dmh-a----yv--acqfqeaghylpqevrsckypvfycwdw-ircf-kgcsqrppkk-pksrcwg--qg-yfwdtdtsgyg-sq
+ 
+1,3 Score: 698
+-------vn-vwtvwawwlyvpwagda---lcvky-h-eylryhhctwpt-rmycgpitvnk-gydtdmhetywwlyvpwacqfqearnkl-vqevpsck-yssf-ypi-fvnipnmvktnrp-pgefltircst-vte-n-lhktkggnth
+cqfqevyvpyvw-vlt-w-kvmvacdannknckkcdsmg-lgkhskyfihifi-ng----nkdg-etlmh-a--g-y---acqfqeagnylpg-evpsckfm-hfgcwfkivtfl-y-yq-sldpgi-pksqyshggiepnel--tkggnmr
+ 
+1,4 Score: 770
+v-nvwtvwaw-wlyvpwagdalcvkyheyl--ryhhctw-ptrmy-c-g---pitvnkgydtdmhetywwl-yvp--w-a-c-qfqearnklvqev-psckyssfypifvnip-nmvktnrppgefltircstvtenlhktkggnth
+vy-vvkvwvwqwp-vpracda-----inygdnfk--d-gyp--mywlsgchisifv--fq-tsr------lcyvrlawfaecfqqq--rvkldqeve-sckyssfypqlvnipg-mvktnrppgeflssrcsqvtenlhetkggnrh
+ 
+1,5 Score: 597
+-vnvwtvwawwlyvpwagdalc-v-kyheylr-yh-hc-twptrmy--c-gpit--vnkg-ydtdmhe-tywwlyv-pwacqfqearnklvqe-vpsck-yssfypi-fvnipnm-v-ktnr-pp-gefltir---cstvtenlhk-tkggnth
+y-q-rhkmnwn-yvp---dt-cpwsyy--ylmnyymslmmvpvp-yqsctg--tfcvstwyysy-fsips-gps-vwpv-gq-qga--d---iav--kka--sflgdwmvnf--mqvfgwerhkpq-md-rirdegcpnwffr-hdmt----a-
+ 
+1,6 Score: 753
+--vnvwtvwawwlyvpwa-gdalcvk-y-h-e--ylr-yhhctwptrmycg-pi---tvnk-g-ydtdmhety--w--wly-vpwa-c-q-fqe-a-r-----n--k-l----v-q-ev-ps-ck-yssf-ypifvnipnmvkt-n----r--pp-gefl-tirc--st---vt-e-nlh---ktkgg-------n--th
+hq-p--q-qd---c---avldtl-vpvcphwsyyylmny--y-ms-immvpvpiqvftv-tswv-fteyye-yfkwpsgpycwpvdvygqpqqdcahmgghqepwqkmlnqppvdqkivqidrcdv-lsrwcpervce--m-ytqihqadravkpa-dflwtqqynvhtmfhwhrhpnpesgir-yfgrdpcqrrnwdtf
+ 
+1,7 Score: 736
+-vnvwtvwa-w-wl---yvpw--a-gd-alcvkyhe-yl-r----y-hhctwptrmy-c-----gpit--vnkg-y-dtdmh-etyww--lyvpwacq-f-q-----earnklvqevpsck-y---s---sfy-pif-vnip-nm-vktnrppgeflti--r-cst---vtenlh-k-tkg-gnt----h-
+hvr-lqdqapmytlvpvyspwsyty-dsnyyv-yqmqkpvpwvwnyv-tydvstwyywykwwpsgpntwsv--gvyvah--hggh-wgttly-mgt-qpfmqklrmiiapcdl-qm-rwcgelwnehlfqdfca-drav-hpanflntt-rvn-hm-tmkvrnsikpqe-ke--efrfttscwmarfmitc
+ 
+1,8 Score: 713
+-------v-n-vw---t-vw-aw-wl---y-------vp--w---a-g-da-lcv-k-------yhe-ylry--hh-ctw-p-trmycg--p-it-v--n---kg-ydtdmhetywwl--yvpwacqfqea-r-n-k-lvqevpsc-k-yssfypi-fvnipnmvktnrpp-gefltircstvten-lhk-tkggnth
+hepqqdcapnfpwtlmtcvws-wkwlsvgyanqmqnpvpwvwnyqtyfvstwyywykwwpsgpnthivy-vyvkhhgghwgpvq--ymgfqpfmqgvrfpqgvggfy-h-riif--elwtyrnga--dhwadravsgal-f-wlllvkn-sh-t-ik-v-i--ys-qpwppsg----irk-yc-rnpyqtvh-pg-t-
+ 
+2,1 Score: 721
+v-yvwtvwvwwwmgpwacdagld-kyq-py-ery-ncynlpnrstcc-vinvnkdyyc-dmh-a----yv--acqfqeaghylpqevrsckypvfycwdw-ircf-kgcsqrppk--kpksrcwg--qg-yfwdtdtsgyg-sq
+vn-vwtvwawwlyvpwagda-lcvkyhe-yl-ryhhctw-ptr-mycgpitvnkg-ydtdmhetywwlyvpwacqfqearnklvqevpsckyssfypifvnipnmvk--tnrppgef-ltirc-stvtenlh-kt-k-g-gnth
+ 
+2,3 Score: 696
+-----vyvwtvwv--wwwmgpwacda-gldkyqpyerync--y-nlpnrstcc---vinvnkd-yycdmha-yvacqfqeaghylp-qevrsck-y-pvfycwdwi--rcfkgcsqrp-pkkpksrcw-gqgyfw--d-tdtsgyg--sq
+cqfqevyvpyvwvltwkvm--vacdan-n-k--nc-kk-cdsmg-lgkhskyfihifingnkdgetl-mhagy-acqfqeagnylpg-evpsckfmhf-g-cwfkivtfl-y-y-qsldpgipksqyshg-g-iepnelt-k-g-gnmr-
+ 
+2,4 Score: 675
+vyvwtvwvw-w-wmgpwacda---gldkyqpyeryncynlpnrstccvi-n-v-nkd-yycdmhayv-a-c-qfqeaghylpqevrsckypvfy--cwdwircfkg--csqrppk--kpksrcwgq--g-yfwdtdtsgyg-sq
+vyvvkvwvwqwpv--pracdainyg-d--nfkdgypmywls--g-ch-isifvfqtsrlcyvrla-wfaecfqqqrv--kldqevesckyssfypqlv-nip---gmvktnrppgefls-src-sqvtenlh-et-k-g-gnrh
+ 
+2,5 Score: 579
+vy-vwtvwvwwwmgpwacdagldkyqpy-eryncyn-l---p-nr-s---tccvinvnkdyy-c-dm-----------h-ay-va-cqfqeaghylp-qevrsckypvfycwdwircfkgcsqrppkkpksrcwgqgyf-wdtd-tsgygsq-
+-yq-rhkm-nwnyvpdtcp-w-syy--yl-m-nyymslmmvpvpyqsctgtfcvs---twyysyfsipsgpsvwpvgqqgadi-avk--k-asf-lgdwmvn-f-mqvf--g-wer-hk--pqm---dr-ird-e-gcpnwf-frhd-m--ta
+ 
+2,6 Score: 731
+vyvwtvwvwwwmgp-wacdagldkyq-p-y-e-ryncynlpn--rstcc--v-i---nv---n-kdyy-c-dm-h--ay---va-c-q-fqe-a---gh------yl---p--q-ev---rsckypvfyc-wdwir-c-f-k-gcsq--r-ppkkp-ksrcw--gqgy-----f-wd-t---dtsg--y-g--s-q-------
+----h------q-pqqdc-avldt-lvpvcphwsy-yy-lmnyymsimmvpvpiqvftvtswvfteyyeyfkwpsgp-ycwpvdvygqpqqdcahmgghqepwqkmlnqppvdqkivqidr-cd--v-lsrwcpervcemytqi-hqadra--vkpa-dflwtq-q-ynvhtmfhwhrhpnpe-sgiryfgrdpcqrrnwdtf
+ 
+2,7 Score: 697
+vyvwtvwvwwwmg-pwa--cdagldk-yqp--yery--ncynlpnrstccvinv-n--k-d----yy-cd-m-h---a-----yva----------c---q-f-q-----eaghy-lpqevrsckypvfycwdwircf-kgc-sqr---p----pkk--p----ksr-c-wgqgy--fwdtdts-gy--g-sq-
+----h--v---rlqdqapmy-t-lvpvyspwsy-tydsnyyvy-qm-qkpvpwvwnyvtydvstwyywykwwpsgpntwsvgvyvahhgghwgttlymgtqpfmqklrmiiap-cdl-qm-rwc----gelw-nehlfqdfcad-ravhpanflnttrvnhmtmkvrnsikpqekeefrft-tscwmarfmitc
+ 
+2,8 Score: 675
+vyvwtvwvwwwmgp-wacda----g-ldky-qp-y--e-ry-n-cynl-p---nrstccvinvnkdyy-cd-m-h---a---yv-acqfqeagh-----y---lp--qevrsckyp--v--fy------cw------d-w-ir-----cf-----k-g------csqrp-pkkpks--r--cwgqgyfwdtdtsgygsq
+----h-------epqqdc-apnfpwtlmtcvwswkwlsvgyanqmqnpvpwvwnyqtyfvs---twyywykwwpsgpnthivyvyvkh-hg-ghwgpvqymgfqpfmqgvr-f--pqgvggfyhriifelwtyrngadhwadravsgalfwlllvknshtikviysq-pwp--p-sgirkyc-rnpyq--tvhp--g-t
+ 
+3,1 Score: 698
+cqfqev-yvpyv--wvltwkvmvacdannknckkcdsmglgkhskyfihifi-ng----nkdg-etlmh-a--g-y---acqfqeagnyl-pgevpsckfm-hfgcwfkivtfl-y-yq-sldpgi-pksqyshggiepnel--tkggnmr
+-----vn-vwtvwawwl--yvpwagda---lcvkyhey-lryhhctwpt-rmycgpitvnk-gydtdmhetywwlyvpwacqfqearnklvq-evpsck-yssf-ypi-fvnipnmvktnrp-pgefltircst-vte-n-lhktkggnth
+ 
+3,2 Score: 696
+cqfqevyvpyvwvltwkvm--vacda---nnk--nc-kk-cdsm-glgkhskyfihifingnkdgetl-mhagy-acqfqeagnylp-gevpsck---fmhfgcwfki-vtfly-y-qsldpgipksqyshg-g-iepnelt-k-g-gnmr
+-----vyvwtvwv--wwwmgpwacdagld--kyqpyerync--yn-lpnrstcc---vinvnkd-yycdmha-yvacqfqeaghylpq-evrsckypvfy---cwdwirc-f-kgcsqrp-pkkpksrcw-gqgyfw--d-tdtsgygsq-
+ 
+3,4 Score: 691
+cqfqevyvpyvwv-ltwkv-mvacdann--knckk-cdsm-gl-gkhskyfihifingnkdgetl-m-h-agya-c-qfqeagnylp-gev-psckfmhfgcwfkivtflyyqsl--dpg----i-pks-qysh-ggi--epnel--tkggnmr-
+-----vyvvkvwvwq-wpvpr-acdainygdnfkdgy-pmywlsgch----isif-vfqt-sr-lcyvrlawfaecfqqqr--vkldq-eve-sck-ys-s--fyp------q-lvnipgmvktnrppgeflssrcsqvte-n-lhetkggn-rh
+ 
+3,5 Score: 603
+cqfq-e-v-yvp--yvwv---l--twk-v--mvacdan-nkn-ck-k-cdsmglgkhskyfihifingn---kdgetlmh-a-gya-cqfqeagnylpg--evpsckfmh-fgcwfkivtflyyqsldpgipksqyshggiepneltkggnm--r--
+yqrhkmnwnyvpdtcpwsyyylmny-ymslmmv----pvpyqsctgtfcvst--wyys-yf-sips-gpsvwpvg--q-qgadi-avk--k-as-fl-gdwmvn---fmqvfg-werh-k-p--q-mdr-ir----degc--pnw---ff-rhdmta
+ 
+3,6 Score: 722
+cq-fqevy-vp--yvwvl-tw-kvmvacdannknckkcds-m----gl-gk-hs---k-yfihifi-n-gn-k---d--getlmhagyacq--f-qe-agn-yl--pg----ev-ps-ckfmhfgcwfki-vtfl-yy-q-sl---d--p-gip-ksqy--sh-g-gi-epn-eltkg----g--n--mr-----
+hqpqqd-cavldtlvpvcphwsy-y--y--lm-ny-ymsimmvpvpiqvftvtswvfteyyey-fkwpsgpycwpvdvyg-qpqqd-ca-hmgghqep-wqkmlnqppvdqkivqidrcdvlsrwc--perv--cemytqihqadravkpadflwtqqynvhtmfhwhrhpnpes--giryfgrdpcqrrnwdtf
+ 
+3,7 Score: 721
+---cqfq--evy--vp-yv-w---------v---lt---wkv--mvacdannknckkcdsmglgk-h-s-k-y--fihifingnkdgetl-mhagyacq-f-q-----eagny-l--p--ge-vp-sckfmhfgcwfk-iv--t-fl-yy---q-sld--pgipksqyshggiepneltkg-gnm-r-----
+hvrlqdqapm-ytlvpvyspwsytydsnyyvyqmqkpvpw-vwnyvty-dvstwyywykwwpsgpntwsvgvyva-hhgghwg-t---tlym--g-t-qpfmqklrmiia-pcdlqmrwcgelwnehl-f-qdfcadra-vhpanflnttrvnhmtmkvrnsi-kpq--e-keef-rfttscw-marfmitc
+ 
+3,8 Score: 717
+--cqfqevyvpyv--wvl-t----wkvm-v-acdan---n--k---nckkcd-s-----m--g-lg--khs-k-y--fihifingnkdgetlmhagyacq-f-qeagnylp-gevps-c-k--fm--h-f-g-c-w-fk-iv--t-f-lyyqsl-dpgi-pksqysh----ggie---pn-elt-kggnmr
+hepq-qd-cap-nfpwtlmtcvwswkwlsvg-y-anqmqnpvpwvwnyqtyfvstwyywykwwpsgpnthivyvyvk-hhgghwgp-v--qym--g--fqpfmq--gvrfpqg-vggfyhriifelwtyrngadhwadra-vsgalfwl--l-lvknshtikviysqpwppsgirkycrnpyqtvhpgt--
+ 
+4,1 Score: 770
+v-yvvkvwvwqwp-vpracda-----inygdnfk--d-gyp--mywlsgchisifv--fq-tsr------lcyvrlawfaecfqqq--rvkldqev-esckyssfypqlvnip-gmvktnrppgeflssrcsqvtenlhetkggnrh
+vn-vwtvwaw-wlyvpwagdalcvkyheyl--ryhhctw-ptrmy-c-g---pitvnkgydtdmhetywwl-yvp--w-a-c-qfqearnklvqevp-sckyssfypifvnipn-mvktnrppgefltircstvtenlhktkggnth
+ 
+4,2 Score: 675
+vyvvkvwvwqw-pvpracdainyg-d--nfkdgypmywl---s-gc-hisifvfqtsrlcyvrla-wfaecfqqqrv--kldqevesckyssfypqlv-nip---gmvktnrppgefls-src-sqvtenlh-et-k-g-gnrh
+vyvwtvwvwwwmg-pwacda---gldkyqpyeryncynlpnrstccv-i-n-v-nkd-yycdmhayv-a-c-qfqeaghylpqevrsckypvfy--cwdwircfkg--csqrppk--kpksrcwgq--g-yfwdtdtsgyg-sq
+ 
+4,3 Score: 691
+-----vyvvkvwvwq-wpvpr-acdainygdnfkdgy-pmywlsgch----isif-vfqt-sr-lcyvrlawfaecfqqqr--vkl-dqev-esck-y--s----s--f--ypq-lvnipgmvktnrppgeflssrcsqvte-n-lhetkggn-rh
+cqfqevyvpyvwv-ltwkv-mvacdann--knckk-cdsm-gl-gkhskyfihifingnkdgetl-m-h-agya-c-qfqeagnylpg-evp-sckfmhfgcwfkivtflyy-qsl--dpg----i-pks-qysh-ggi--epnel--tkggnmr-
+ 
+4,5 Score: 567
+vy---vvkvwvwqwp-vpracdainygdnfkdgypmywl-sgchis-if--vf-q--ts-rlcyvrlaw----f-ae-cfqqqr-v-k--ldqevesc-ky-ssfypqlvnipg--mvktn-r-ppg-eflssr-csqvt-enlhetkg-gn---rh----
+-yqrh--k---mnwnyvp---dt--c--p--wsy-yy-lmn-yymslmmvpvpyqsctgtf-c-v-stwyysyfs-ipsg---psvwpvgq-qgadiavkka-sf---l----gdwmv--nfmqvfgwe----rhkpqmdrir-de--gcpnwffrhdmta
+ 
+4,6 Score: 702
+-----vy-v-vk-vwv---w-----------q--wpvp---r--ac--dai-nygdnfk--dgypmywl-s--g-----c-----h-is-----if--vfqt----srlcyvrl--aw-fae--c-f--q-qq--r-vk----l-d-q-evescky-s-sfypqlvn-ipgmvktnr-ppgeflssrcsqvtenlhetkggnrh
+hqpqqdcavldtlvpvcphwsyyylmnyymsimmvpvpiqvftvtswvftey-yey-fkwpsg-pycwpvdvygqpqqdcahmgghqepwqkmlnqppvdqkivqidr-cdv-lsr-wcp-ervcemytqihqadravkpadflwtqqynvh--tmfhwhrhp---npesg----iry-fg-r--dpc-q-rrn--wdt---f-
+ 
+4,7 Score: 698
+-v--------y--v-vkv-w---------v--wqwpvp---r--acd--ain-yg-dnfkdgypmywls-g-c--hisifvfqtsrlcy----vr--l-aw-fa-ecfqqqrvk--ldqevesc-k-y-ssf--yp--ql----vnipgmvk-tnrppgeflssrcsq-vtenlh-e-tkg-g-nr---h-
+hvrlqdqapmytlvpvyspwsytydsnyyvyqmqkpvpwvwnyvtydvst-wyywykwwpsg-pntw-svgvyvahhgghwgtt--lymgtqpfmqklr-miiap-cdlqmrwcgelwne-hlfqdfca-dravhpanflnttrvnh--m-tmkvr-n----si-kpqe-ke--efrfttscwmarfmitc
+ 
+4,8 Score: 687
+------------v----yv--vkvw--vw---qw--pvp---r--ac--da--iny-----gdn--f-----k--dgy--p-my-w-ls---gchisifv-fqtsr----l--cyvr-la--wfaecfqqqrvkldqevesckys-sf-ypqlv-n-i-pgmv-k-tnrpp-gef-lssr--csqvtenlhetkggnrh
+hepqqdcapnfpwtlmtcvwswk-wlsvgyanqmqnpvpwvwnyqtyfvstwyywykwwpsgpnthivyvyvkhhgghwgpvqymgfqpfmqgvrfpqgvggfyhriifelwt-y-rngadhw-a--d---r---a--v-s---galfw-lllvknshtik-viysqpwppsgirky-crnpy-q-t-v-h---pg--t
+ 
+5,1 Score: 597
+-yq-rhkmnwn-yvp---dt-cpwsyy--ylmnyymslmmvpvp-yqsctg--tfcvstwy-ysyfsips-gps-vwpv-gq-qga--d---iav---kk-asflgdwmvnf--mqvfgwerhkp-qmd-rir-d---egcpnwffrhdmt----a-
+v-nvwtvwawwlyvpwagdalc-v-kyheylr-yh-hc-twptrmy--c-gpit--vnkgydtd-mhe-tywwlyv-pwacqfqearnklvqe-vpsckys-sfypi-fvnipnm-v-ktnr-ppg-efltircstvte---n--l-hk-tkggnth
+ 
+5,2 Score: 579
+-y-qrhkm-nwnyvpdtcp-w-syy--y-lm-nyymslmmvpvpyqsctgtfcvs---twyysyfsipsgpsvwpvgqqga-diavk--k-asf-lgdwmvn-f-mqvf--g-wer-hk--pqm---dr-ird-e-gcpnwf-frhd-m--ta
+vyv-wtvwvwwwmgpwacdagldkyqpye-ryncyn-l---p-nr-s---tccvinvnkdyy-c-dm-----------h-ayv-a-cqfqeaghylp-qevrsckypvfycwdwircfkgcsqrppkkpksrcwgqgyf-wdtd-tsgygsq-
+ 
+5,3 Score: 603
+yqrhkmnwnyvpdtcpwsyyyl-mnyymslmmv----pvpyqsctgtfcvs---twyys-yf-sips-gpsvwpvg--q-qgadi-avk--k-as-fl-gdwmvn---fmqvfg-w--e--r-hkpq-mdr-ir----degc--pnw---ff-rhdmta
+cqfq-e-v-yvp--yvwv---ltw--k-v--mvacdan-nkn-ck-k-cdsmgl-gkhskyfihifingn---kdgetlmh-a-gya-cqfqeagnylpg--evpsckfmh-fgcwfkivtflyy-qsldpgipksqyshggiepneltkggnm--r--
+ 
+5,4 Score: 567
+-y-qrhk---mnwnyvp---dt--c--p--wsy-yy-l-mnyymslmmvpvpyqsctgtf-c-v-stw--yysyfsipsgpsvwpvgq-qgadiavkk-asf---l----gdwmv--nfmqvfgwe----rhkpqmdrir-de--gcpnwffrhdmta
+vyv-v-kvwvwqwp-vpracdainygdnfkdgypmywlsg-chis-if--vf-q--ts-rlcyvrlawfa--ecf-qqq-r-v-k--ldqevesc-kys-sfypqlvnipg--mvktn-r-ppg-eflssr-csqvt-enlhetkg-gn---rh----
+ 
+5,6 Score: 776
+yqr-hkmnwny-vpdt----cp-wsyyylmnyymslmmvpvpyqsctgtfc-vstwyysyf---s-----------ip-------sg------------p-----------sv---w-p--v-g---q--qgadiavkkasflgdwmvnfmq--v--fg-werhk-pqmdrir-deg-cpnwffrh-dmt-a
+hqpqqd----cavldtlvpvcphwsyyylmnyymsimmvpvpiqvftvt-swvfteyyeyfkwpsgpycwpvdvygqpqqdcahmgghqepwqkmlnqppvdqkivqidrcdvlsrwcpervcemytqihq-adravkpadfl--w--tq-qynvhtmfhwhrhpnp-esgiryf-grdpc-qrrnwd-tf-
+ 
+5,7 Score: 736
+yq-r-hkm-nwny--vpdtcpwsyyy-lmnyy-mslmm--vp-v-pyqsctgtfcvstwyysy-fsipsgp---svw--pv-------------g-----q-----------q----g------------adiavkkasfl-gdwmvn-f-mqvfgwer--hkpqmdri-rd--egcpnwf-frhdm-ta
+-hvrlqdqapm-ytlvpvyspwsytyds-nyyvy-qmqkpvpwvwny--vt-y-dvstwyywyk-wwpsgpntwsvgvy-vahhgghwgttlymgtqpfmqklrmiiapcdlqmrwcgelwnehlfqdfcadravhpanfln-ttrvnhmtmkv----rnsikpqekeefrftt-sc--wma-r-fmitc
+ 
+5,8 Score: 711
+y--qrhkm-nwnyvp-d--tcpws-y-yyl---m-nyymslmmvp-v-pyqsctgtfcvstwyysy-fsipsgp---s----v------w-pv---g-----q-----q------------------gadi-avkka-sf-lgdw--mv-n--fmqvf-g--werhkpqmdrirdegcpnwf-frhdmt--a
+hepq-qdcap-n-fpwtlmtcvwswkw--lsvgyan-qm-qnpvpwvwnyq--t-yf-vstwyywyk-wwpsgpnthivyvyvkhhgghwgpvqymgfqpfmqgvrfpqgvggfyhriifelwtyrngadhwa-dravsgal-fwlllvknshtikviysqpw-p--p--sgirky-crn-pyq-tv-hpgt
+ 
+6,1 Score: 753
+----h-----q--pqqdcavldtl-vpvcphwsyyylmny--y-ms-immvpvpiqvftv-ts-wvfteyye-yfkwpsgpycwpvdvygqpqqdcahmgghqepwqkmlnqppvdqkivqidrcd-vlsrwcpervce--m-ytqihqadravkp-adflwtqqynvhtmfhwhrhpnpesgir-yfgrdpcqrrnwdtf
+vnvwtvwawwlyvp--w-a-gdalcvk-y-h-e--ylr-yhhctwptrmycg-pi---tvnkgy--dtdmhety--w--wly-vpwa-c-q-fqe-a-r-----n--k-l----v-q-ev-ps-cky-ssf-ypifvnipnmvkt-n----r--ppg-efl-tirc--st---vt-e-nlh---ktkgg-------n--th
+ 
+6,2 Score: 731
+----h------q-pqqdc-avldt-lvpvcphwsy-yy-lmnyymsimmvpvpiqvftvtswvfteyyeyfkwps-gpycwpvdvygqpqqdcahmgghqepwqkmlnqppvdqkivqidr-cd--v-lsrwcpervcemytqi-hqadr--avkp-adflw-tq-qynvhtmfhw-hrhpnpesgiryfgrdpcqrrnwdtf
+vyvwtvwvwwwmgp-wacdagldkyq-p-y-e-ryncynlpn--rstcc--v-i---nv---n-kdyy-c-dm-ha--y---va-c-q-fqe-a---gh------yl---p--q-ev---rsckypvfyc-wdwir-c-f-k-gcsq--rpp-kkpk-srcwg-qg-y-----f-wdtdt----sg--y-g--s-q-------
+ 
+6,3 Score: 722
+hqpqqd----ca-vld-tlvpv-c--phwsyyylmny-ymsimmvpvpiqvftvtsw-vfteyyeyfkwpsgpycwpvdvyg-qpqqd-ca-hmgghqe-pwqkmlnqppvdqkivqidrcdvlsrwc--perv--cemytqihqadravkpadflwtqqynvhtmfhwhrhpnpes--giryfgrdpcqrrnwdtf
+cq-fqevyvpyvwvltwk-vmvacdan-n---k--nckkcds-m----gl-gk-hsky-f-i-hi-fi-n-gn-k---d--getlmhagyacq--f-qea-gn-yl--pg----ev-ps-ckfmhfgcwfki-vtfl-yy-q-sl---d--p-gip-ksqy--sh-g-gi-epn-eltkg----g--n--mr-----
+ 
+6,4 Score: 702
+hqpqqdcavldtlvpvcphwsyyylmnyymsimmvpvpiqvft-vts--w-vfteyyey-fkwpsgpyc--wpvdvygq--pq----qd-cahmgghqepwq--kmlnqppvdqkivqidrcd-vlsrwcperv--cem-ytqihqadravkp-adflwt--qqynvhtm-fhwhrhpnpesgiryfgrdpcqrrnwdtf
+-----vy-v-vk-vwv---w-----------q--wpvp---racdainygdnfkd--gypmywlsg--chisi-fv-fqtsrlcyvrlawfaec-fqq---qrvk-l-----dq-ev-es-cky-ssf-ypqlvnipgmvkt-n----r--ppg-eflssrcsq--v-tenlh-e-t--k--g----g--n---r---h-
+ 
+6,5 Score: 776
+hqpqqd----cavldtlvpvcphwsyyylmnyymsimmvpvpiqvftvt-swvfteyyeyfkwpsgpycwpvdvygqpqqdcahmgghqepwqkmlnqppvdqkivqidrcdvlsrwcpervcemytqihq-adravkpadfl--w--tq-qynvhtmfhwhrhpnp-esgiryf-grdp--cqrrnwd--tf
+yqr-hkmnwny-vpdt----cp-wsyyylmnyymslmmvpvpyqsctgtfc-vstwyysyf---s-----------ip-------sg------------p-----------sv---w-p--v-g---q--qgadiavkkasflgdwmvnfmq--v--fg-werhk-pqmdrir-deg-cpnw-ffrh-dmta-
+ 
+6,7 Score: 988
+h-qpqqd-cavl-dtlvpvc-phwsyyy-lmnyy-msimmvpvpiqv-ftvt-swvfteyyeyfk-wpsgp-ycwpvdvygqpqqdcahmgghqepwqkml---nqppvd-qk--ivqidrcdvl-srwcpervc--emytqihq---adravkpa-dflwtqqynv-h-tmfhwhrhpn-p-e-sgiryfgrdpcqr-rnwdtf
+hv-rlqdq-a-pmytlvpvysp-wsytyds-nyyvy-qmqkpvp-wvwnyvtyd-vstwyywy-kwwpsgpnt-wsvgvy------vahhggh-w-gtt-lymgtq-p-fmqklrm-iiapcd-lqmrwcge--lwne--hlf-qdfcadravhpan-flnt--trvnhmtm-kv-rnsikpqekeefr-f-ttscwmarfmitc
+ 
+6,8 Score: 945
+hqpqqdcavl-d--tl-vpvcphws-y-yyl---m-nyymsimmvp-vpi-q--vftvtswvfteyyeyfk-wpsgp-ycwpvdvygqpqqdcahmgghqepwqkmlnqppvd-qkivqidrcd---vlsrwcper--vce-m-y---tqihqadravkp-adf-lwtqq-ynvhtm--fhwhrhp-npesgir-yfgr-dpcq-rrnwdtf
+hepqqdca-pnfpwtlmtcv---wswkw--lsvgyan-qm-qnpvpwvwnyqty-f-v-s---twyywy-kwwpsgpnth-ivyvyv-k-h---h-gghwgpvqymgfq-p-fmq-gv---r-fpqgvggf-y-hrii-felwtyrnga-dhwadrav-sgalfwl--llvknshtikviy-s-qpwpp-sgirky-crn-pyqtvhpg-t-
+ 
+7,1 Score: 736
+hvr-lqdqapmytlvpvyspwsyt-ydsnyyv-yqmqkpvpwvwny-vtydvstwyywykwwpsgpntwsv--gvyvah--hggh-wgttly-mgt-qpfmqklrmiiapcdl-qm-rwcgelwnehlfqdfc-adrav-hpanflntt-rvn-hm-tmkvrnsikpqeke--efrfttscwmarfmitc
+-vnvwtvwa-w-wl---yvpw--ag-d-alcvkyhe-yl-r----yh-hctwptrmy-c-----gpit--vnkg-y-dtdmh-etyww--lyvpwacq-f-q-----earnklvqevpsck-y---s---sfyp-if-vnip-nm-vktnrppgeflti--r-cstv--tenlh-k-tkg-gnt----h-
+ 
+7,2 Score: 697
+----h--v---rlqdqapmy-t-lvpvyspwsy-tydsnyyvy-qm-qkpvpwvwnyvtydvstwyywykwwpsgpntwsvgvyvahhgghwgttlymgtqpfmqklrmiiap-cdl-qm-rwc----gelw-nehlfqdfcad-ravhpanflnttrvnhmtmkvrnsikpqekeefrft-tscwmarfmitc
+vyvwtvwvwwwmg-pwa--cdagldk-yqp--yery--ncynlpnrstccvinv-n--k-d----yy-cd-m-h---a-----yva----------c---q-f-q-----eaghy-lpqevrsckypvfycwdwircf-kgc-sqr---p----pkk--p----ksr-c-wgqgy--fwdtdts-gy--g-sq-
+ 
+7,3 Score: 721
+hvrlqdqapm-ytlvpvyspwsytydsnyyvyqmqkpvpw-vwnyvty-dvstwyywykwwpsgpntwsvgvyvahhgghwg-t---tlym--g-t-qpfmqklrmiia-pcdlqmrwcgelwnehl-f-qdfcadr-avhpanflnttrvnhmtmkvrnsi-kpq--e-keef-rfttscw-marfmitc
+---cqfq--evy--vp-yv-w---------v---lt---wkv--mvacdannknckkcdsmglgk-h-s-k-yf-ihifingnkdgetl-mhagyacq-f-q-----eagny-l--p--ge-vp-sckfmhfgcwfki-v--t-fl-yy---q-sld--pgipksqyshggiepneltkg-gnm-r-----
+ 
+7,4 Score: 698
+hvrlqdqapmytlvpvyspwsytydsnyyvyqmqkpvpwvwnyvtydvst-wyywykwwpsg-pntw-svgvyvahhgghwgtt--lymgtqpfmqkl-rmiia-pcdlqmrwcgelwne-hlfqdfc-adravhpanflnttrvnh--m-tmkvr-n----si-kpq-eke--efrfttscwmarfmitc
+-v--------y--v-vkv-w---------v--wqwpvp---r--acd--ain-yg-dnfkdgypmywls-g-c--hisifvfqtsrlcy----vr--la-w-fae-cfqqqrvk--ldqevesc-k-ys-sf--yp--ql----vnipgmvk-tnrppgeflssrcsqv-tenlh-e-tkg-g-nr---h-
+ 
+7,5 Score: 736
+-hvrlqdqapm-ytlvpvyspwsytyds-nyyvy-qmqkpvpwvwny--vt-y-dvstwyywy-kwwpsgpntwsvgvyvahhgghwgttlymgtqpfmqklrmiiapcdlqmrwcgelwnehlfqdfcadravhpanfl-nttrvnhmtmkv----rnsikpqekeefrf-ttsc--w-mar-fmitc
+yq-r-hkm-nwny--vpdtcpwsyyy-lmnyy-mslmm--vp-v-pyqsctgtfcvstwyysyf-sipsgp---svwp-v-------------g-----q-----------q----g------------adiavkkasflg-dwmvn-f-mqvfgwer--hkpqmdri-rde--gcpnwff-rhdm-ta
+ 
+7,6 Score: 988
+h-vrlqd-qa-pmytlvpvysp-wsytyds-nyyvy-qmqkpvp-wvwnyvtyd-vstwyywy-kwwpsgpnt-wsvgvy------vahhggh-w-gtt-lymgtq-p-fmqklrm-iiapcd-lqmrwcge--lwne--hlf-qdfcadravhpa-nflnt--trvnhmtm-kv-rnsikpqekeefr-f-ttscwmarfmitc
+hq-pqqdc-avl-dtlvpvc-phwsyyy-lmnyy-msimmvpvpiqv-ftvt-swvfteyyeyfk-wpsgp-ycwpvdvygqpqqdcahmgghqepwqkml---nqppvd-qk--ivqidrcdvl-srwcpervc--emytqihq---adravkpad-flwtqqynv-h-tmfhwhrhpn-p-e-sgiryfgrdpcqr-rnwdtf
+ 
+7,8 Score: 995
+h-vrlqd-qap-m--ytl---vpvys-pw-s--ytydsnyyvyqmqkpvpwvwny-vtydvstwyywykwwpsgpnt-wsv-gvyv-ahhgghwg-ttlymgtqpfmqkl-rmii-apcdlqmr-wcgelwnehlfq-df--cadravhpanf-lnttrv-n-hmtmkvrnsikpq-e-keefrfttscwmar-fmit---c-
+he-pqqdc-apnfpw-tlmtcv-w-swkwlsvg--ya-n----qmqnpvpwvwnyq-tyfvstwyywykwwpsgpnth-ivy-vyvk-hhgghwgp-vqymgfqpfmq-gvrfpqgvggfyh-rii-felw--tyrngadhw-adravsgalfwll--lvknsh-tikv---iysqpwppsgir-ky-c---rnpyqtvhpgt
+ 
+8,1 Score: 713
+hepqqdcapnfpwtlmtcvw-swkwlsvgyanqmqnpvpwvwnyqtyfvstwyywykwwpsgpnthivy-vyvkhhgghwgpvq--ymgfqpfmqgvrfpqgvggfy-h-riif--elwtyrnga--dhwadravsgal-f-wlllvk-nsh-t-i-kv-i--ys-qpwppsg----ir--k-ycrnpyqtvh-pg-t-
+-------v-n-vw---t-vwa-w-wl---y-------vp--w---a-g-da-lcv-k-------yhe-ylry--hh-ctw-p-trmycg--p-it-v--n---kg-ydtdmhetywwl--yvpwacqfqea-r-n-k-lvqevpsc-ky-ssfypif-vnipnmvktnrpp-gefltircstvt-en-lhk-tkggnth
+ 
+8,2 Score: 675
+----h-------epqqdc-apnfpwtlmtcvwswkwlsvgyanqmqnpvpwvwnyqtyfvs---twyywykwwpsgpnthivyvyvkh-hg-ghwgpvqymgfqpfmqgvr-f--pqgvggfyhriifelwtyrngadhwadravsgalfwlllvknshtikviysq-pwp--p-sgirkyc-rnpyq--tvhp--g-t
+vyvwtvwvwwwmgp-wacda----g-ldky-qp-y--e-ry-n-cynl-p---nrstccvinvnkdyy-cd-m-h---a---yv-acqfqeagh-----y---lp--qevrsckyp--v--fy------cw------d-w-ir-----cf-----k-g------csqrp-pkkpks--r--cwgqgyfwdtdtsgygsq
+ 
+8,3 Score: 717
+hepq-qd-cap-nfpwtlmtcvwswkwlsv-gy-anqmqnpvpwvwnyqtyfvstwyywykwwpsgpnthivyvyvkhhg--g-hwg-pvqym--g--fqpfmq--gvrfpqg-vggfyhriifelwtyrngadhwadr-avsgalfwl--l-lvknshtikviysqpwppsgirkycrnpyqtvhpgt--
+--cqfqevyvpyv--wvl-t----wkvm-va-cdan---n--k---nckkcd-s-----m--g-lg--khs-k-yfihifingnkdge--tlmhagyacq-f-qeagnylp-gevps-c-k--fm--h-f-g-c-w-fki-v--t-f-lyyqsl-dpgi-pksqysh----ggie---pn-elt-kggnmr
+ 
+8,4 Score: 687
+hepqqdcapnfpwtlmtcvwswk-wlsvgyanqmqnpvpwvwnyqtyfvstwyywykwwpsgpnthivyvyvkhhgghwgpvqymgfqpfmqgvrfpqgvggfyhriifel-wty-rngadhw-a--d---r---a--v-s---galf-wlllvknshtik-viysqpwppsgirky-crnpy-q-t-v-h---pg--t
+------------v----yv--vkvw--vw---qw--pvp---r--ac--da--iny-----gdn--f-----k--dgy--p-my-w-ls---gchisifv-fqtsr----lc--yvr-la--wfaecfqqqrvkldqevesckys-sfy-pqlv-n-i-pgmv-k-tnrpp-gef-lssr--csqvtenlhetkggnrh
+ 
+8,5 Score: 711
+hepq-qdcap-n-fpwtlmtcvws--wkwlsvgyan-qm-qnpvpwvwnyq--t-yf-vstwyywy-kwwpsgpnthivyvyvkhhgghwgpvqymgfqpfmqgvrfpqgvggfyhriifelwtyrngadhwa-dravsgal-fwlllvknshtikviysqpw-p--p--sgirky-crn-pyq-tv-hpgt
+y--qrhkm-nwnyvp-d--tcpwsyy-y-l---m-nyymslmmvp-v-pyqsctgtfcvstwyysyf-sipsgp---s----v------w-pv---g-----q-----q------------------gadi-avkka-sf-lgdw--mv-n--fmqvf-g--werhkpqmdrirdegcpnwf-frhdmt--a
+ 
+8,6 Score: 945
+hepqqdca-pnfpwtlmtcv---ws--wkwlsvgyan-qm-qnpvpwvwnyq--tyfv-s---twyywy-kwwpsgpnt--hivyvy--vk-h---h-gghwgpvqymgfq-p-fmq-gv---r-fpqgvggf-y-hr-iifelwtyrnga-dhwadrav-sga--lfw-lllvknshtikviy-s-qpwpp-sgirky-cr-npyqtvhpg-t-
+hqpqqdcavl-d--tl-vpvcphwsyy-y-l---m-nyymsimmvp-vpi-qvft--vtswvfteyyeyfk-wpsgp-ycw-pvdvygq-pqqdcahmgghqepwqkmlnqppvd-qkivqidrcd---vlsrwcperv--ce-m-y---tqihqadravkp-adfl-wt-qq-ynvhtm--fhwhrhp-npesgir-yfgrd-pcq-rrnwdtf
+ 
+8,7 Score: 995
+h-epq-qdcapnf-pwtlmtcv-w-swkwls-vgya-n----qmqnpvpwvwny-qtyfvstwyywykwwpsgpnt-hiv-yvyv-khhgghwg-pvqymgfqpfmq-gvrfpq-gvggfyhr--iifelw--tyrngadhwadravsgalfwl---llvknsh-tikv---iysqpwppsgir-ky-c---rnpyqtvhpgt
+hvrlqdq--ap-my--tl---vpvys-pw-syt-ydsnyyvyqmqkpvpwvwnyv-tydvstwyywykwwpsgpntw-svg-vyva-hhgghwgt-tlymgtqpfmqkl-rmiiapcdlqm-rwc--gelwnehlfq-dfc-adravhpanf-lntt-rv-n-hmtmkvrnsikpq-e-keefrfttscwmar-fmit---c-
+ 
+Scores
+[710, 721, 698, 770, 597, 753, 736, 713]
+[721, 710, 696, 675, 579, 731, 697, 675]
+[698, 696, 710, 691, 603, 722, 721, 717]
+[770, 675, 691, 710, 567, 702, 698, 687]
+[597, 579, 603, 567, 710, 776, 736, 711]
+[753, 731, 722, 702, 776, 710, 988, 945]
+[736, 697, 721, 698, 736, 988, 710, 995]
+[713, 675, 717, 687, 711, 945, 995, 710]
+ 
+Min, Max
+0: 597,770
+1: 579,731
+2: 603,722
+3: 567,770
+4: 567,776
+5: 702,988
+6: 697,995
+7: 675,995
